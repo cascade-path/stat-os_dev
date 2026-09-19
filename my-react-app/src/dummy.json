@@ -1,0 +1,26 @@
+{
+  "id": "task-001",
+  "title": "Improve your life",
+  "status": "active",
+  "children": [
+    {
+      "id": "task-002",
+      "title": "Maintain your health",
+      "status": "active",
+      "children": [
+        {
+          "id": "task-003",
+          "title": "Walk every day",
+          "status": "active",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "task-004",
+      "title": "Make time for learning",
+      "status": "active",
+      "children": []
+    }
+  ]
+}
